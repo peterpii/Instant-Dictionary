@@ -1,7 +1,8 @@
 # Instant-Dictionary
 Chrome Extension published on Chrome Web Store: https://chrome.google.com/webstore/detail/instant-dictionary/hjpcapcphfbomgjkghdiiogelgikcmpa
 
-View definition in both English and Chinese as you browse the web.
+View definition in both English and Chinese as you browse the web!
+
 IMPORTANT:
  - The chrome extension will not work in tabs that were open prior to installation. After installation, either reload your open tabs or restart Chrome.
 
