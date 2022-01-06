@@ -82,8 +82,6 @@ window.onload = function () {
                                 // English
                                 let english = result['english'] || 'Could not translate the selected text';
                                 let chinese = result['chinese'] || '很抱歉，字典搜尋不到您選取的字';
-                                console.log(english)
-                                console.log(chinese)
         
                                 // Traditional Chinese & English
                                 engDiv.text(english);
